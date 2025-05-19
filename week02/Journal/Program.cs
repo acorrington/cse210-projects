@@ -28,11 +28,11 @@ class Program
             {
                 case "1":
                     Entry entry = new Entry();
-                    entry.date = DateTime.Now.ToString("yyyy-MM-dd");
-                    entry.promptText = promptGenerator.GetRandomPrompt();
-                    Console.WriteLine($"Prompt: {entry.promptText}");
+                    entry._date = DateTime.Now.ToString("yyyy-MM-dd");
+                    entry._promptText = promptGenerator.GetRandomPrompt();
+                    Console.WriteLine($"Prompt: {entry._promptText}");
                     Console.Write("Your entry: ");
-                    entry.entryText = Console.ReadLine();
+                    entry._entryText = Console.ReadLine();
                     journal.AddEntry(entry);
                     break;
 
