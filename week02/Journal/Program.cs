@@ -1,4 +1,9 @@
-using System;
+/// <summary>
+/// W02 Project: Journal Program
+/// This program is a simple journal application that allows users to add, display, save, and load journal entries.
+/// Author: Aaron Corrington
+/// Shows creativity and exceeds core requirements by having journal saved and loaded in JSON format.
+/// </summary>
 
 class Program
 {
