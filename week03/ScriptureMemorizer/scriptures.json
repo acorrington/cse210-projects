@@ -2,41 +2,91 @@
   {
     "Reference": {
       "Book": "John",
-      "Chapter": "3",
-      "Verse": "16"
+      "Chapter": 3,
+      "Verse": 16,
+      "VerseEnd": 0
     },
     "Text": "For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life."
   },
   {
     "Reference": {
       "Book": "Philippians",
-      "Chapter": "4",
-      "Verse": "13"
+      "Chapter": 4,
+      "Verse": 13,
+      "VerseEnd": 0
     },
     "Text": "I can do all this through him who gives me strength."
   },
   {
     "Reference": {
       "Book": "Proverbs",
-      "Chapter": "3",
-      "Verse": "5"
+      "Chapter": 3,
+      "Verse": 5,
+      "VerseEnd": 0
     },
     "Text": "Trust in the Lord with all your heart and lean not on your own understanding."
   },
   {
     "Reference": {
       "Book": "Alma",
-      "Chapter": "37",
-      "Verse": "36-37"
+      "Chapter": 37,
+      "Verse": 36,
+      "VerseEnd": 37
     },
     "Text": "Yea, and cry unto God for all thy support; yea, let all thy doings be unto the Lord, and whithersoever thou goest let it be in the Lord; yea, let all thy thoughts be directed unto the Lord; yea, let the affections of thy heart be placed upon the Lord forever. Counsel with the Lord in all thy doings, and he will direct thee for good; yea, when thou liest down at night lie down unto the Lord, that he may watch over you in your sleep; and when thou risest in the morning let thy heart be full of thanks unto God; and if ye do these things, ye shall be lifted up at the last day."
   },
   {
     "Reference": {
       "Book": "Mosiah",
-      "Chapter": "2",
-      "Verse": "17"
+      "Chapter": 2,
+      "Verse": 17,
+      "VerseEnd": 0
     },
     "Text": "When ye are in the service of your fellow beings ye are only in the service of your God."
+  },
+  {
+    "Reference": {
+      "Book": "2 Nephi",
+      "Chapter": 2,
+      "Verse": 25,
+      "VerseEnd": 0
+    },
+    "Text": "Adam fell that men might be; and men are, that they might have joy."
+  },
+  {
+    "Reference": {
+      "Book": "Mosiah",
+      "Chapter": 18,
+      "Verse": 9,
+      "VerseEnd": 0
+    },
+    "Text": "Yea, and are willing to mourn with those that mourn; yea, and comfort those that stand in need of comfort, and to stand as witnesses of God at all times and in all things, and in all places that ye may be in, even until death, that ye may be redeemed of God, and be numbered with those of the first resurrection, that ye may have eternal life."
+  },
+  {
+    "Reference": {
+      "Book": "Alma",
+      "Chapter": 32,
+      "Verse": 21,
+      "VerseEnd": 0
+    },
+    "Text": "And now as I said concerning faith—faith is not to have a perfect knowledge of things; therefore if ye have faith ye hope for things which are not seen, which are true."
+  },
+  {
+    "Reference": {
+      "Book": "3 Nephi",
+      "Chapter": 11,
+      "Verse": 10,
+      "VerseEnd": 11
+    },
+    "Text": "Behold, I am the light and the life of the world; and I have drunk out of that bitter cup which the Father hath given me, and have glorified the Father in taking upon me the sins of the world, in the which I have suffered the will of the Father in all things from the beginning."
+  },
+  {
+    "Reference": {
+      "Book": "Moroni",
+      "Chapter": 10,
+      "Verse": 4,
+      "VerseEnd": 5
+    },
+    "Text": "And when ye shall receive these things, I would exhort you that ye would ask God, the Eternal Father, in the name of Christ, if these things are not true; and if ye shall ask with a sincere heart, with real intent, having faith in Christ, he will manifest the truth of it unto you, by the power of the Holy Ghost."
   }
 ]

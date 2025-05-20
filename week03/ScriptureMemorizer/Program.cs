@@ -22,6 +22,9 @@ class Program
         {
             Console.Clear();
             Console.WriteLine(scripture.GetDisplayText());
+            Console.WriteLine("\nCongratulations! You've memorized the scripture!");
+            Console.WriteLine("Press Enter to exit.");
+            Console.ReadLine();
         }
     }
 }

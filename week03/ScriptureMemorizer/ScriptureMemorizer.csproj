@@ -7,5 +7,10 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>disable</Nullable>
   </PropertyGroup>
+  <ItemGroup>
+    <None Update="scriptures.json">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+</ItemGroup>
 
 </Project>
