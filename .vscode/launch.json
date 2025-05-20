@@ -128,7 +128,7 @@
             "program": "${workspaceFolder}/week03/ScriptureMemorizer/bin/Debug/net8.0/ScriptureMemorizer.dll",
             "args": [],
             "cwd": "${workspaceFolder}/week03/ScriptureMemorizer",
-            "console": "integratedTerminal",
+            "console": "externalTerminal",
             "internalConsoleOptions": "neverOpen",
             "stopAtEntry": false
         },

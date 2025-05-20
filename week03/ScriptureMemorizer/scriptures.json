@@ -1,0 +1,42 @@
+[
+  {
+    "Reference": {
+      "Book": "John",
+      "Chapter": "3",
+      "Verse": "16"
+    },
+    "Text": "For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life."
+  },
+  {
+    "Reference": {
+      "Book": "Philippians",
+      "Chapter": "4",
+      "Verse": "13"
+    },
+    "Text": "I can do all this through him who gives me strength."
+  },
+  {
+    "Reference": {
+      "Book": "Proverbs",
+      "Chapter": "3",
+      "Verse": "5"
+    },
+    "Text": "Trust in the Lord with all your heart and lean not on your own understanding."
+  },
+  {
+    "Reference": {
+      "Book": "Alma",
+      "Chapter": "37",
+      "Verse": "36-37"
+    },
+    "Text": "Yea, and cry unto God for all thy support; yea, let all thy doings be unto the Lord, and whithersoever thou goest let it be in the Lord; yea, let all thy thoughts be directed unto the Lord; yea, let the affections of thy heart be placed upon the Lord forever. Counsel with the Lord in all thy doings, and he will direct thee for good; yea, when thou liest down at night lie down unto the Lord, that he may watch over you in your sleep; and when thou risest in the morning let thy heart be full of thanks unto God; and if ye do these things, ye shall be lifted up at the last day."
+  },
+  {
+    "Reference": {
+      "Book": "Mosiah",
+      "Chapter": "2",
+      "Verse": "17"
+    },
+    "Text": "When ye are in the service of your fellow beings ye are only in the service of your God."
+  }
+]
