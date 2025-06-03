@@ -29,6 +29,6 @@ public class Video
 
     public string Display()
     {
-        return $"{_title} by {_author} ({_length} seconds) \n{GetCommentsCount()} Comments:\n{string.Join("\n", _comments.Select(c => c.Display()))}";
+        return $"Title: {_title} Author: {_author} Length:({_length} seconds) \n{GetCommentsCount()} Comments:\n{string.Join("\n", _comments.Select(c => c.Display()))}";
     }
 }
