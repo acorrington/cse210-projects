@@ -206,7 +206,7 @@
             "program": "${workspaceFolder}/week06/EternalQuest/bin/Debug/net8.0/EternalQuest.dll",
             "args": [],
             "cwd": "${workspaceFolder}/week06/EternalQuest",
-            "console": "integratedTerminal",
+            "console": "externalTerminal",
             "internalConsoleOptions": "neverOpen",
             "stopAtEntry": false
         },

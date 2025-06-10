@@ -1,0 +1,4 @@
+Score:510
+SimpleGoal|give a talk|give a talk in sacrament meeting|100|True
+EternalGoal|go to the temple|go to the temple monthly|125
+ChecklistGoal|read scriptures|read scriptures nightly|20|3|100|3
